@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/preto-phil/Tutor-Page/issues"
   },
-  "homepage": "https://github.com/preto-phil/Tutor-Page#readme"
+  "homepage": "https://github.com/preto-phil/Tutor-Page#readme",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
 }
